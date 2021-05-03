@@ -1,16 +1,11 @@
 import React from "react";
 
 function langoor() {
-  return <div></div>;
-}
-
-export default langoor;
-
-rfce;
-import React from "react";
-
-function langoor() {
-  return <div></div>;
+  return (
+    <div>
+      <p>lqlw;kdmnqlk;wdmqwl;km</p>
+    </div>
+  );
 }
 
 export default langoor;
